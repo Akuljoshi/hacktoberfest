@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name:akul
+ - Place: delhi, india
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Akuljoshi](https://github.com/)Akuljoshi
